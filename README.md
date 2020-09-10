@@ -59,6 +59,14 @@ file for each *mode* of operation. Thus each mode can be configured in
 that mode's config file and that mode can be selected by invoking
 *cwwords** and pointing to desired configuration file. 
 
+**cwwords** requires three supporting applications, **ebook2cw**, and
+**morse**. **mpg123**. These applications home pages are:
+
+- [ebook2cw](https://fkurz.net/ham/ebook2cw.html)
+- [morse](http://catb.org/~esr/morse)
+- [mpg123](http://mpg123.org)
+
+
 <a name="modes_of_operation"></a>
 ## Modes of Operation
 
